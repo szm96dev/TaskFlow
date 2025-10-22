@@ -4,6 +4,8 @@ A modern, production-ready task management application built with React and Tail
 
 ![React](https://img.shields.io/badge/React-61dafb?style=flat&logo=react) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=flat&logo=tailwindcss) ![Heroicons](https://img.shields.io/badge/Heroicons-1f2937?style=flat&logo=heroicons) ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c02385f4-8efa-45ea-9642-d65b4800d401/deploy-status)](https://app.netlify.com/projects/sz-taskflow/deploys)
+
 ## ✨ Features
 
 ### 📝 Task Management
